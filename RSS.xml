@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Mi RSS</title>
+    <link>http://localhost/RSS.xml</link>
+    <description>RSS de Jose Luis Martinez Jimenez</description>
+    <item>
+      <title>Oficina de Turismo de Letur</title>
+      <link>https://letur.es/oficina-de-turismo</link>
+      <description>Visita la oficina de turismo de Letur para más información.</description>
+    </item>
+    <item>
+      <title>Jose Luis Martinez Jimenez - Mi Web Personal</title>
+      <link>file:///C:/Users/Jose%20Luis/Desktop/Desarrollo%20AP/Leng.%20marcas%20y%20sist.%20gest.%20inf/UD2/jose_luis_martinez_jimenez_WEB/personal.html</link>
+      <description>Conoce más sobre Jose Luis Martinez Jimenez en mi página personal.</description>
+    </item>
+  </channel>
+</rss>
