@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Mi RSS</title>
-    <link>http://localhost/RSS.xml</link>
+    <link>https://joseletur7.github.io/web/RSS.xml</link>
     <description>RSS de Jose Luis Martinez Jimenez</description>
     <item>
       <title>Oficina de Turismo de Letur</title>
